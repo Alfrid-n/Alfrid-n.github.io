@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={qkl} />
         <p>
-          欢迎来到cuit区块链产业学院
+          区块链产业学院
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Visit the website of College of Blockchain Industry
+          Visit the website of CUIT
         </a>
       </header>
     </div>
